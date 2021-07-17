@@ -274,14 +274,3 @@ io.sendline(payload)
 io.interactive()
 ```
 
-## No RELRO - 64
-## 题目
-`gcc -fno-stack-protector  -z norelro -no-pie pwn5.c -o norelro_64`   
-checksec
-```
-    Arch:     amd64-64-little
-    RELRO:    No RELRO
-    Stack:    No canary found
-    NX:       NX enabled
-    PIE:      No PIE (0x400000)
-```
