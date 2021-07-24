@@ -1,6 +1,6 @@
 # pwn-exercise
 My PWN 练习题。   
-
+> 相关文件在对应的文件夹下。   
 ## 0x01 Linux x86
 
 ### stack 
@@ -30,7 +30,8 @@ My PWN 练习题。
 ## 0x03 Linux MIPS
 
 ### stack 
-
+1. [初探ARM PWN](./linux_arm_stack/arm_pwn_typo/pwn.md)  
+> 知识点：qemu调试 & ARM ret2shellcode & ARM RoP    
 
 ## Ref
 - https://ctf-wiki.org/
