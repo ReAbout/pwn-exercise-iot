@@ -35,4 +35,6 @@ My PWN 练习题。
 
 ## Ref
 - https://ctf-wiki.org/
+- https://xuanxuanblingbling.github.io/
+- https://blingblingxuanxuan.github.io/
 
