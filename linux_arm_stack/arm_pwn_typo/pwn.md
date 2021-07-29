@@ -24,6 +24,9 @@ pwndbg> set endian little
 pwndbg> target remote 127.0.0.1:1234
 ```
 
+### ARM 汇编
+
+- [mips_arm汇编学习](https://b0ldfrev.gitbook.io/note/iot/mipsarm-hui-bian-xue-xi)
 
 
 ## 0x01 PWN
