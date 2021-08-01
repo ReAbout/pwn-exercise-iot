@@ -31,7 +31,8 @@ My PWN 练习题。
 ## 0x03 Linux MIPS
 
 ### stack 
-
+1. [初探MIPS PWN](./linux_mips_stack/mips_pwn_Mplogin/pwn.md)  
+> 知识点：MIPS函数调用约定 & MIPS寄存器 & MIPS ret2shellcode 
 
 ## Ref
 - https://ctf-wiki.org/
