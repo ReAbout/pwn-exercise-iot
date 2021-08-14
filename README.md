@@ -33,7 +33,8 @@ My PWN 练习题。
 ### stack 
 1. [初探MIPS PWN](./linux_mips_stack/mips_pwn_Mplogin/pwn.md)  
 > 知识点：MIPS函数调用约定 & MIPS寄存器 & MIPS ret2shellcode 
-
+2. [MIPS RoP](./linux_mips_stack/mips_pwn_1/pwm.md)   
+>知识点：RoP
 ## Ref
 - https://ctf-wiki.org/
 - https://xuanxuanblingbling.github.io/
