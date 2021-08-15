@@ -1,6 +1,7 @@
 # pwn-exercise
 My PWN 练习题。   
 > 相关文件在对应的文件夹下。   
+> 异构PWN技能栈，适合IoT安全研究者。    
 ## 0x01 Linux x86
 
 ### stack 
