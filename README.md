@@ -40,7 +40,7 @@ My PWN 练习题。
 2. [MIPS RoP](./linux_mips_stack/mips_pwn_1/pwm.md)   
 >知识点：MIPS RoP
 3. [RealWrold CC](./linux_mips_stack/mips_iot_cc/pwm.md)
-> 知识点： 00截断
+> 知识点： `\x00`截断 & docker qemu-system
 ## Ref
 - https://ctf-wiki.org/
 - https://xuanxuanblingbling.github.io/
